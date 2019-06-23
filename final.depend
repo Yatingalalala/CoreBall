@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1546883115 source:c:\users\ediec\onedrive\орн▒\final\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1538402388 d:\glutming\glutmingw32\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1066736514 d:\glutming\glutmingw32\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1104595778 d:\glutming\glutmingw32\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1111590872 d:\glutming\glutmingw32\include\gl\freeglut_ext.h
+
